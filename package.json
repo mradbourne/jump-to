@@ -1,0 +1,19 @@
+{
+  "name": "jump-to",
+  "version": "1.0.0",
+  "description": "A command line utility that allows the user to jump to commonly used project tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mradbourne/jump-to.git"
+  },
+  "author": "Matt Radbourne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mradbourne/jump-to/issues"
+  },
+  "homepage": "https://github.com/mradbourne/jump-to#readme"
+}
