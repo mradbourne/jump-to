@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mradbourne/jump-to/issues"
   },
-  "homepage": "https://github.com/mradbourne/jump-to#readme"
+  "homepage": "https://github.com/mradbourne/jump-to#readme",
+  "bin": {
+    "jt": "bin/jump-to.js"
+  }
 }
