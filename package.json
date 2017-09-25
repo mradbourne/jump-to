@@ -18,5 +18,9 @@
   "homepage": "https://github.com/mradbourne/jump-to#readme",
   "bin": {
     "jt": "bin/jump-to.js"
+  },
+  "dependencies": {
+    "meow": "^3.7.0",
+    "shelljs": "^0.7.8"
   }
 }
